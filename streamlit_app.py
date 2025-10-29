@@ -159,8 +159,10 @@ if role == "Voter":
     else:
         st.info("No votes cast yet.")
 
-# -----------------------
-# Admin view
+#
+#
+
+# Admin 
 elif role == "Admin":
     st.header("Admin Dashboard")
     admin_pw = st.text_input("Admin password", type="password")
