@@ -1,0 +1,27 @@
+{
+  "VOTER001": {
+    "name": "Geetam",
+    "password_hash": "<sha256-hash>",
+    "voted": false
+  },
+  "VOTER002": {
+    "name": "Riya",
+    "password_hash": "<sha256-hash>",
+    "voted": false
+  },
+  "123": {
+    "name": "Dhaval",
+    "password_hash": "07f0f8d80bc170d7e94e02f9db68e035c7b5c7c94145b80eed9ba4c541b9f94e",
+    "voted": true
+  },
+  "1234": {
+    "name": "geetam",
+    "password_hash": "14ba1ae02dc0b6ff7381ccd9d8ec25512a11d0f5d98185dc4fd928b105940af9",
+    "voted": true
+  },
+  "5": {
+    "name": "dupare",
+    "password_hash": "b9954dcf63962ae85f71dd25a5e9e58047158300203dc8555727bc7a4f56760f",
+    "voted": true
+  }
+}
